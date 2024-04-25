@@ -1,0 +1,23 @@
+div {
+
+    background-color: blue;
+}
+
+h1{
+background-color: green;
+}
+.parclass { /* Class for  element of the same class*/
+background-color: violet;
+}
+
+#parid{  /* ID for specific element, must be unique*/
+    background-color: magenta;
+}
+h2 {
+    background-color:antiquewhite;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
